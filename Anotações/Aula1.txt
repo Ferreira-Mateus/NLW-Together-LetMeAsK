@@ -1,0 +1,15 @@
+React - Biblioteca que permite fazer interfaces interativas (respondem rápido as ações do usuário)
+Firebase - Permite funcionalidades comuns em aplicações para serem feitas de maneira mais rápida
+
+Node
+Yarn
+
+Componente no React = uma função que devolve um html
+
+*TUDO É COMPONENTE* (no React)
+
+Propriedadas são informações que podemos passar para um componente
+
+IMUTABILIDADE = quando uma variavel é criada dentro de um estado ela nao sofre alterações, seta um novo valor 
+de acordo com o valor inicial dela
+
